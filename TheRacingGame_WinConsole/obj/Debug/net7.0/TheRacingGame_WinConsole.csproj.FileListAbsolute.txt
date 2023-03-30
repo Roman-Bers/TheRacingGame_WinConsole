@@ -1,0 +1,15 @@
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/bin/Debug/net7.0/TheRacingGame_WinConsole
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/bin/Debug/net7.0/TheRacingGame_WinConsole.deps.json
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/bin/Debug/net7.0/TheRacingGame_WinConsole.runtimeconfig.json
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/bin/Debug/net7.0/TheRacingGame_WinConsole.dll
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/bin/Debug/net7.0/TheRacingGame_WinConsole.pdb
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/obj/Debug/net7.0/TheRacingGame_WinConsole.csproj.AssemblyReference.cache
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/obj/Debug/net7.0/TheRacingGame_WinConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/obj/Debug/net7.0/TheRacingGame_WinConsole.AssemblyInfoInputs.cache
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/obj/Debug/net7.0/TheRacingGame_WinConsole.AssemblyInfo.cs
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/obj/Debug/net7.0/TheRacingGame_WinConsole.csproj.CoreCompileInputs.cache
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/obj/Debug/net7.0/TheRacingGame_WinConsole.dll
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/obj/Debug/net7.0/refint/TheRacingGame_WinConsole.dll
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/obj/Debug/net7.0/TheRacingGame_WinConsole.pdb
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/obj/Debug/net7.0/TheRacingGame_WinConsole.genruntimeconfig.cache
+/Users/romanbers/Projects/TheRacingGame_WinConsole/TheRacingGame_WinConsole/obj/Debug/net7.0/ref/TheRacingGame_WinConsole.dll
