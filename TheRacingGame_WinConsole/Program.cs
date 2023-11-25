@@ -2,19 +2,6 @@
 using TheRacingGame_WinConsole.Enums;
 using System.Text;
 
-#region is not null
-//Dog a = null;
-//Cat b = null;
-
-//bool A1 = a == null;
-//bool A2 = a != null;
-
-//bool B1 = b == null;
-//bool B2 = b != null;
-
-//bool C1 = b is null;
-//bool C2 = b is not null; 
-#endregion
 
 Console.OutputEncoding = Encoding.Unicode;
 Console.CursorVisible = false;
@@ -163,41 +150,3 @@ static void _printCar(CarElement[,] car, ConsoleColor color, int topOffset, int 
         }
     }
 }
-
-#region is not null
-//class Dog
-//{
-//    public string Name { get; set; }
-//    public int Age { get; set; }
-//}
-
-
-//class Cat
-//{
-//    public string Name { get; set; }
-//    public int Age { get; set; }
-
-//    public static bool operator == (Cat a, Cat b)
-//    {
-//        //if (object.ReferenceEquals(a, null) || object.ReferenceEquals(a, null))
-//        if (a is null || b is null)
-//            return false;
-
-//        if (a.Name == b.Name && a.Age == b.Age)
-//            return true;
-
-//        return false;
-//    }
-
-//    public static bool operator != (Cat a, Cat b)
-//    {
-//        if (object.ReferenceEquals(a, null) || object.ReferenceEquals(b, null))
-//            return false;
-
-//        if (!(a.Name == b.Name && a.Age == b.Age))
-//            return true;
-
-//        return false;
-//    }
-//} 
-#endregion
